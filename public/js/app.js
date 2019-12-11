@@ -1972,7 +1972,7 @@ __webpack_require__.r(__webpack_exports__);
       drawer: null,
       items: [{
         icon: 'mdi-contacts',
-        text: 'Contacts'
+        text: 'Home'
       }, {
         icon: 'mdi-history',
         text: 'Frequently contacted'
